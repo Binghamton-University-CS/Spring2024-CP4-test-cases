@@ -1,4 +1,4 @@
-# How to run 
+## CP4 test helper script with some test-cases
 
 1. Copy the bash file (cp4_test_helper.sh) and the expect file (interaction.exp) to the same directory as your executable (e.g., bin directory).
 
@@ -9,4 +9,4 @@
 
 4.  Check if your program's output align with the 'EXPECTED OUTPUTS' output (Doesn't have to be exact while recommended).
 
-** Please note that these test cases might not cover all the scenarios for grading. Feel free to ask if you have any questions or concerns about them.**
+**Please note that these test cases might not cover all the scenarios for grading. Feel free to ask if you have any questions or concerns about them.**
