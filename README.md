@@ -10,3 +10,6 @@
 4.  Check if your program's output align with the 'EXPECTED OUTPUTS' output (Doesn't have to be exact while recommended).
 
 **Please note that these test cases might not cover all the scenarios for grading. Feel free to ask if you have any questions or concerns about them.**
+
+
+- In case you encounter an "spawn id exp4 not open" error, it indicates that the test-helper script tried to interact with an already-terminated process (in this case, your executable's). It may likely be a segmentation fault of your program.
