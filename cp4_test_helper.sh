@@ -147,6 +147,8 @@ Removed Emarald from your songs
 "
 
 expected_outputs[5]="
+[ Test-case 5 : Listen to songs, remove a subset, and favorite ]
+
 new song 1 D by unknown 3:00
 new song 2 B by unknown 3:00
 new song 3 F by unknown 3:00
