@@ -132,6 +132,8 @@ expected_outputs[3]="
 new song 1 Ruby by Taylor 5:30
 Listened to Ruby for 100 seconds
 Song Ruby added to list of favorites (Listened for 100 seconds)
+Ruby is a favorite.
+Ruby is a favorite.
 "
 
 
